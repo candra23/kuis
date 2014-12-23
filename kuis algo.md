@@ -66,5 +66,5 @@ break;
 }
 }
 clrscr();
-getch();
-}
+getch();
+}
